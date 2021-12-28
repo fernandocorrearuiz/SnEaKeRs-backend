@@ -1,3 +1,5 @@
+// Creating first MongoDB Database
+
 const mongodb = require("mongodb");
 const MongoClient = mongodb.MongoClient;
 
